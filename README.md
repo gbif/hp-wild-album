@@ -7,6 +7,6 @@
 Hosted portal for camera trap data.
 
 - Staging: <https://wild-album.hp.gbif-staging.org>
-- Production: TBD
+- Production: <https://album.wildlabs.net>
 
 This Jekyll website makes use of a theme and biodiversity widgets developed by the [GBIF](https://www.gbif.org/) network. You can find information on editing this site and more on [gbif/hosted-portals](https://github.com/gbif/hosted-portals).

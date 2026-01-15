@@ -56,6 +56,6 @@ composition:
       klass: hp
       title: Interested in animal tracking data?
       description: >
-        [Visit Wild Moves](https://wild-moves.hp.gbif-staging.org){:.button}
+        [Visit Wild Moves](https://moves.wildlabs.net){:.button}
       hasWhiteText: true
 ---
