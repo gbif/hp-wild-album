@@ -1,4 +1,4 @@
-url: "https://wild-album.hp.gbif-uat.org"
+url: "https://wild-album.hp.gbif-test.org"
 siteMeasurements:
   enable: false
-graphqlEndpoint: "https://graphql.gbif-uat.org/graphql"
+graphqlEndpoint: "https://graphql.gbif-test.org/graphql"
