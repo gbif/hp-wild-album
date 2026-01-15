@@ -26,7 +26,7 @@ See the [GBIF API documentation](https://techdocs.gbif.org/en/openapi/) for deta
 
 ## Who's behind this?
 
-The idea for this website was suggested by partners of the [BIG_PICTURE](https://wildlifecamera.eu) project. It is hosted by [GBIF](https://www.gbif.org/hosted-portals) and maintained by [WILDLABS](https://wildlabs.net) and volunteers from the camera-trapping community, in particular:
+The idea for this website was suggested by partners of the [BIG_PICTURE](https://wildlifecamera.eu) project. The site is hosted by [GBIF](https://www.gbif.org/hosted-portals) and maintained by [WILDLABS](https://wildlabs.net) and volunteers from the camera-trapping community, in particular:
 
 - [Peter Desmet](https://orcid.org/0000-0002-8442-8025)
 - [Francesca Cagnacci](https://orcid.org/0000-0002-4954-9980)
@@ -38,5 +38,3 @@ The idea for this website was suggested by partners of the [BIG_PICTURE](https:/
 The best way to contribute to Wild Album is by publishing your camera trap data to GBIF. We hope to add more detailed instructions later, but see the [publication guide](https://doi.org/10.35035/doc-0qzp-2x37) to get started.
 
 Have a suggestion or noticed a typo or bug? Submit an issue on [GitHub](https://github.com/gbif/hp-wild-album/issues).
-
-<!-- Want get in touch? [Contact us](info@gbif.org) -->
