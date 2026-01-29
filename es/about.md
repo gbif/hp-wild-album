@@ -11,11 +11,11 @@ parallax: true
 toc: true
 ---
 
-(es) Wild Album highlights camera trap data published through the [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org). It allows users to find data that might fit their need and allows datasets owners to make their research more discoverable. All data use is subject to the [GBIF user agreement](https://www.gbif.org/terms/data-user).
+(es) Wild Album highlights camera trap data published through the [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/es). It allows users to find data that might fit their need and allows datasets owners to make their research more discoverable. All data use is subject to the [GBIF user agreement](https://www.gbif.org/es/terms/data-user).
 
 ## (es) Scope
 
-(es) Any dataset that is published as a [Camera Trap Data Package (Camtrap DP)](https://camtrap-dp.tdwg.org) and is registered with GBIF is automatically included in Wild Album. Publication and registration can be do through e.g. a [GBIF IPT](https://www.gbif.org/ipt).
+(es) Any dataset that is published as a [Camera Trap Data Package (Camtrap DP)](https://camtrap-dp.tdwg.org) and is registered with GBIF is automatically included in Wild Album. Publication and registration can be do through e.g. a [GBIF IPT](https://www.gbif.org/es/ipt).
 
 ### (es) API access
 
@@ -26,7 +26,7 @@ toc: true
 
 ## (es) Who's behind this?
 
-(es) The idea for this website was suggested by partners of the [BIG_PICTURE](https://wildlifecamera.eu) project. The site is hosted by [GBIF](https://www.gbif.org/hosted-portals) and maintained by [WILDLABS](https://wildlabs.net) and volunteers from the camera-trapping community, in particular:
+(es) The idea for this website was suggested by partners of the [BIG_PICTURE](https://wildlifecamera.eu) project. The site is hosted by [GBIF](https://www.gbif.org/es/hosted-portals) and maintained by [WILDLABS](https://wildlabs.net) and volunteers from the camera-trapping community, in particular:
 
 - [Peter Desmet](https://orcid.org/0000-0002-8442-8025)
 - [Francesca ](https://orcid.org/0000-0002-4954-9980)

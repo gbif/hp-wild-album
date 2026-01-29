@@ -26,7 +26,7 @@ composition:
     inlineData:
       title: (es) Search for data
       description: >
-        (es) Wild Album helps you discover camera trap datasets published to [GBIF](https://www.gbif.org).
+        (es) Wild Album helps you discover camera trap datasets published to [GBIF](https://www.gbif.org/es).
         Search metadata to find datasets relevant to you.
         Or dive into the occurrence data these datasets collectively contain.
       cta:
@@ -47,7 +47,7 @@ composition:
         - text: (es) Read the publication guide
           href: https://doi.org/10.35035/doc-0qzp-2x37
         - text: (es) Become a publisher
-          href: https://www.gbif.org/become-a-publisher
+          href: https://www.gbif.org/es/become-a-publisher
       background: "{{ site.data.images.roe-deer.src }}"
       imageLicense: "{{ site.data.images.roe-deer.caption }}"
       reverse: true
@@ -56,6 +56,6 @@ composition:
       klass: hp
       title: (es) Interested in animal tracking data?
       description: >
-        [(es) Visit Wild Moves](https://moves.wildlabs.net/es/){:.button}
+        [(es) Visit Wild Moves](https://moves.wildlabs.net/es){:.button}
       hasWhiteText: true
 ---
