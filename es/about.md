@@ -29,7 +29,7 @@ toc: true
 (es) The idea for this website was suggested by partners of the [BIG_PICTURE](https://wildlifecamera.eu) project. The site is hosted by [GBIF](https://www.gbif.org/es/hosted-portals) and maintained by [WILDLABS](https://wildlabs.net) and volunteers from the camera-trapping community, in particular:
 
 - [Peter Desmet](https://orcid.org/0000-0002-8442-8025)
-- [Francesca ](https://orcid.org/0000-0002-4954-9980)
+- [Francesca Cagnacci](https://orcid.org/0000-0002-4954-9980)
 - [Fabiola Iannarilli](https://orcid.org/0000-0002-7018-3557)
 - [Talia Speaker](https://orcid.org/0000-0002-1274-2330)
 
