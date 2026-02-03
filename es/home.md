@@ -34,8 +34,8 @@ composition:
           href: /es/dataset/search
         - text: (es) Explore occurrences
           href: /es/occurrence/search
-      background: "{{ site.data.images.bears.src }}"
-      imageLicense: "{{ site.data.images.bears.caption }}"
+      background: /assets/images/brown-bear-slu-BFR05.jpg
+      imageLicense: (es) Two brown bears (mother and yearling) captured by a camera trap in Sweden. Image by SLU.
   - type: split
     inlineData:
       title: (es) Make your data discoverable
@@ -48,8 +48,8 @@ composition:
           href: https://doi.org/10.35035/doc-0qzp-2x37
         - text: (es) Become a publisher
           href: https://www.gbif.org/es/become-a-publisher
-      background: "{{ site.data.images.roe-deer.src }}"
-      imageLicense: "{{ site.data.images.roe-deer.caption }}"
+      background: /assets/images/roe-deer-inbo.jpg
+      imageLicense: (es) Roe deer captured by a camera trap in Belgium. Image by INBO.
       reverse: true
   - type: floatingText
     inlineData:

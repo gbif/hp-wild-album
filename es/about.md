@@ -4,8 +4,8 @@ klass: wildlabs
 lang-ref: about
 permalink: /es/about
 title: (es) About
-background: "{{ site.data.images.fox.src }}"
-imageLicense: "{{ site.data.images.fox.caption }}"
+background: /assets/images/fox-inbo.jpg
+imageLicense: (es) Red fox captured by a camera trap in Belgium. Image by INBO.
 height: 60vh
 parallax: true
 toc: true
