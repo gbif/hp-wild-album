@@ -2,7 +2,7 @@
 layout: home
 klass: home
 lang-ref: home
-permalink: /
+permalink: /es/
 title: (es) Wild Album
 description: (es) Camera trap data portal
 videos: ["/assets/images/wild-boar-inbo.mp4"]
