@@ -41,9 +41,9 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-  - .LICENSE
+  - LICENSE
   - .netlify.toml
-  - .README.md
+  - README.md
   - serve.json
 
 # FRONTMATTER DEFAULTS
