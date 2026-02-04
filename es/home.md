@@ -26,7 +26,7 @@ composition:
     inlineData:
       title: Búsqueda de conjuntos de datos
       description: >
-        Wild Album te atuda a descubrir conjuntos de datos de fototrampeo publicados en  [GBIF](https://www.gbif.org/es).
+        Wild Album te atuda a descubrir conjuntos de datos de fototrampeo publicados en [GBIF](https://www.gbif.org/es).
         Busca metadatos para encontrar conjuntos de datos relevantes para ti.
         O sumérgete en los datos de registros que estos conjuntos de datos contienen de manera colectiva.
       cta:
