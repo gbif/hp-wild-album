@@ -11,7 +11,7 @@ parallax: true
 toc: true
 ---
 
-Wild Album agrupa datos de fototrampeo publicados a través de el [Sistema Global de Informaciión sobre Biodiversidad (GBIF)](https://www.gbif.org/es). Wild Album permite a usuarios encontrar datatos que puedan ajustarse a sus necesidades y a propietarios de conjuntos de datos a hacer que sus investigaciones sean más fáciles de encontrar. Todo uso de datos está sujeto al [acuerdo de usuario de GBIF](https://www.gbif.org/es/terms/data-user).
+Wild Album agrupa datos de fototrampeo publicados a través de el [Sistema Global de Informaciión sobre Biodiversidad (GBIF)](https://www.gbif.org/es). Wild Album permite a usuarios encontrar datos que puedan ajustarse a sus necesidades y a propietarios de conjuntos de datos a hacer que sus investigaciones sean más fáciles de encontrar. Todo uso de datos está sujeto al [acuerdo de usuario de GBIF](https://www.gbif.org/es/terms/data-user).
 
 ## Alcance
 
