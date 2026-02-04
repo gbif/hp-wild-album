@@ -1,0 +1,8 @@
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: Conjuntos de datos
+  href: /es/dataset/search
+- text: Registros
+  href: /es/occurrence/search
+- text: Acerca de
+  href: /es/about

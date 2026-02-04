@@ -56,7 +56,20 @@ var siteConfig = {
       "cmsLocale": "en-GB",
       "gbifOrgLocalePrefix": "",
       "mapTileLocale": "en"
-    }
+    },
+    {
+      "code": "es",
+      "localeCode": "es",
+      "label": "Español",
+      "default": false,
+      "textDirection": "ltr",
+      "cmsLocale": "es",
+      "vocabularyLocale": "es-ES",
+      "iso3LetterCode": "spa",
+      "gbifOrgLocalePrefix": "/es",
+      "grSciCollLocalePrefix": "/es",
+      "mapTileLocale": "es",
+    },
   ],
   "messages": {},
   "occurrenceSearch": {

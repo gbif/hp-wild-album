@@ -4,8 +4,8 @@ klass: wildlabs
 lang-ref: about
 permalink: /about
 title: About
-background: "{{ site.data.images.fox.src }}"
-imageLicense: "{{ site.data.images.fox.caption }}"
+background: /assets/images/fox-inbo.jpg
+imageLicense: Red fox captured by a camera trap in Belgium. Image by INBO.
 height: 60vh
 parallax: true
 toc: true
@@ -31,6 +31,7 @@ The idea for this website was suggested by partners of the [BIG_PICTURE](https:/
 - [Peter Desmet](https://orcid.org/0000-0002-8442-8025)
 - [Francesca Cagnacci](https://orcid.org/0000-0002-4954-9980)
 - [Fabiola Iannarilli](https://orcid.org/0000-0002-7018-3557)
+- [Claudia Meneses](https://orcid.org/0000-0002-9397-5442)
 - [Talia Speaker](https://orcid.org/0000-0002-1274-2330)
 
 ## How can you contribute?
