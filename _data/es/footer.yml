@@ -5,8 +5,8 @@
 columns:
   - name: Acerca de
     description: >
-      (es) This website is maintained by WILDLABS and volunteers
-      from the camera-trapping community.
+      Este sitio web es mantenido por WILDLABS y voluntarios
+      de la comunidad de fototrampeo.
       [Acerca de este sitio web](/es/about).
   - name: Código
     description: >

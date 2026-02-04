@@ -5,17 +5,17 @@ lang-ref: about
 permalink: /es/about
 title: Acerca de
 background: /assets/images/fox-inbo.jpg
-imageLicense: (es) Red fox captured by a camera trap in Belgium. Image by INBO.
+imageLicense: Zorro rojo capturado por una cámara trampa en Bélgica. Imagen de INBO.
 height: 60vh
 parallax: true
 toc: true
 ---
 
-(es) Wild Album highlights camera trap data published through the [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/es). It allows users to find data that might fit their need and allows datasets owners to make their research more discoverable. All data use is subject to the [GBIF user agreement](https://www.gbif.org/es/terms/data-user).
+Wild Album agrupa datos de fototrampeo publicados a través de el [Sistema Global de Informaciión sobre Biodiversidad (GBIF)](https://www.gbif.org/es). Wild Album permite a usuarios encontrar datatos que puedan ajustarse a sus necesidades y a propietarios de conjuntos de datos a hacer que sus investigaciones sean más fáciles de encontrar. Todo uso de datos está sujeto al [acuerdo de usuario de GBIF](https://www.gbif.org/es/terms/data-user).
 
 ## Alcance
 
-(es) Any dataset that is published as a [Camera Trap Data Package (Camtrap DP)](https://camtrap-dp.tdwg.org) and is registered with GBIF is automatically included in Wild Album. Publication and registration can be do through e.g. a [GBIF IPT](https://www.gbif.org/es/ipt).
+Cualquier conjunto de datos publicado como un [Camera Trap Data Package (Camtrap DP)](https://camtrap-dp.tdwg.org) y registrado en GBIF es automáticamente incluido en Wild Album. La publicación y el registro puede hacerse a través de, por ejemplo, un [IPT de GBIF](https://www.gbif.org/es/ipt).
 
 ### Acceso a la API
 
@@ -26,7 +26,7 @@ Consulte la [documentación de la API de GBIF](https://techdocs.gbif.org/en/open
 
 ## ¿Quiénes somos?
 
-(es) The idea for this website was suggested by partners of the [BIG_PICTURE](https://wildlifecamera.eu) project. The site is hosted by [GBIF](https://www.gbif.org/es/hosted-portals) and maintained by [WILDLABS](https://wildlabs.net) and volunteers from the camera-trapping community, in particular:
+La idea de este sitio web fue propuesta por miembros del proyecto [BIG_PICTURE](https://wildlifecamera.eu). El sitio web esta alojado por [GBIF](https://www.gbif.org/es/hosted-portals) y mantenido por [WILDLABS](https://wildlabs.net) y voluntarios de la comunidad de fototrampeo.
 
 - [Peter Desmet](https://orcid.org/0000-0002-8442-8025)
 - [Francesca Cagnacci](https://orcid.org/0000-0002-4954-9980)
@@ -35,6 +35,6 @@ Consulte la [documentación de la API de GBIF](https://techdocs.gbif.org/en/open
 
 ## ¿Cómo puedes contribuir?
 
-(es) The best way to contribute to Wild Album is by publishing your camera trap data to GBIF. We hope to add more detailed instructions later, but see the [publication guide](https://doi.org/10.35035/doc-0qzp-2x37) to get started.
+La mejor manera de contribuir en Wild Album es publicando tus datos de cámaras trampa en GBIF. Esperamos añadir instrucciones más detalladas más adelante, pero puedes empezar consultando la [guía de publicación](https://doi.org/10.35035/doc-0qzp-2x37).
 
 ¿Tienes alguna sugerencia o has notado un error tipográfico? Crea un Issue en [GitHub](https://github.com/gbif/hp-wild-album/issues).

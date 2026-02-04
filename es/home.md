@@ -4,9 +4,9 @@ klass: home
 lang-ref: home
 permalink: /es/
 title: Wild Album
-description: (es) Camera trap data portal
+description: Portal de datos de cámaras trampa
 videos: ["/assets/images/wild-boar-inbo.mp4"]
-imageLicense: "(es) Wild boars (adults and juveniles) captured by a camera trap in Belgium. Video by INBO and UHasselt."
+imageLicense: "Jabalíes (adultos y jóvenes) capturados por una cámara trampa en Bélgica. Vídeo de INBO y UHasselt."
 height: 60vh
 composition:
   - type: heroVideo
@@ -26,35 +26,34 @@ composition:
     inlineData:
       title: Búsqueda de conjuntos de datos
       description: >
-        (es) Wild Album helps you discover camera trap datasets published to [GBIF](https://www.gbif.org/es).
-        Search metadata to find datasets relevant to you.
-        Or dive into the occurrence data these datasets collectively contain.
+        Wild Album te atuda a descubrir conjuntos de datos de fototrampeo publicados en  [GBIF](https://www.gbif.org/es).
+        Busca metadatos para encontrar conjuntos de datos relevantes para ti.
+        O sumérgete en los datos de registros que estos conjuntos de datos contienen de manera colectiva.
       cta:
         - text: Explora los metadatos
           href: /es/dataset/search
         - text: Explora los registros
           href: /es/occurrence/search
       background: /assets/images/brown-bear-slu-BFR05.jpg
-      imageLicense: (es) Two brown bears (mother and yearling) captured by a camera trap in Sweden. Image by SLU.
+      imageLicense: Dos osos pardos (madre y cría de un año) capturados por una cámara trampa en Suecia. Imagen de SLU.
   - type: split
     inlineData:
       title: Haz que tus datos sean fáciles de encontrar
       description: >
-        (es) Want others to discover your camera trap data and use it for research and conservation?
-        Publish your dataset in the [Camtrap DP](https://camtrap-dp.tdwg.org) standard to [GBIF](https://www.gbif.org)
-        and it will automatically appear on Wild Album.
+        ¿Quieres que otros descubran los datos de tus cámaras trampa y los utilicen para investigación y conservación?
+        Publica tu conjunto de datos en el estándar [Camtrap DP](https://camtrap-dp.tdwg.org) en [GBIF](https://www.gbif.org) y aparecerá automáticamente en Wild Album.
       cta:
-        - text: (es) Read the publication guide
+        - text: Lee la guía de publicación
           href: https://doi.org/10.35035/doc-0qzp-2x37
         - text: Conviértete en editor
           href: https://www.gbif.org/es/become-a-publisher
       background: /assets/images/roe-deer-inbo.jpg
-      imageLicense: (es) Roe deer captured by a camera trap in Belgium. Image by INBO.
+      imageLicense: Corzo capturado por una cámara trampa en Bélgica. Imagen de INBO.
       reverse: true
   - type: floatingText
     inlineData:
       klass: hp
-      title: (es) Interested in animal tracking data?
+      title: ¿Te interesan los datos de seguimiento de animales?
       description: >
         [Visita Wild Moves](https://moves.wildlabs.net/es){:.button}
       hasWhiteText: true
