@@ -3,17 +3,17 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: (es) About
+  - name: Acerca de
     description: >
       (es) This website is maintained by WILDLABS and volunteers
       from the camera-trapping community.
-      [About this site](/about).
-  - name: (es) Code
+      [Acerca de este sitio web](/es/about).
+  - name: Código
     description: >
-      (es) This website is open source.
-      Have a suggestion or noticed a typo?
-      Submit an issue on [GitHub](https://github.com/gbif/hp-wild-album/issues).
-  - name: (es) Contact
+      Este sitio web es de código abierto.
+      ¿Tienes alguna sugerencia o has notado un error tipográfico?
+      Crea un Issue en [GitHub](https://github.com/gbif/hp-wild-album/issues).
+  - name: Contacto
     connectIcons: true
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
