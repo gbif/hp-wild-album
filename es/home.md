@@ -41,7 +41,7 @@ composition:
       title: Haz que tus datos sean fáciles de encontrar
       description: >
         ¿Quieres que otros descubran los datos de tus cámaras trampa y los utilicen para investigación y conservación?
-        Publica tu conjunto de datos en el estándar [Camtrap DP](https://camtrap-dp.tdwg.org) en [GBIF](https://www.gbif.org) y aparecerá automáticamente en Wild Album.
+        Publica tu conjunto de datos en el estándar [Camtrap DP](https://camtrap-dp.tdwg.org) en [GBIF](https://www.gbif.org) y aparecerá automáticamente en este sitio web..
       cta:
         - text: Lee la guía de publicación
           href: https://doi.org/10.35035/doc-0qzp-2x37

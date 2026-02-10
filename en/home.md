@@ -42,7 +42,7 @@ composition:
       description: >
         Want others to discover your camera trap data and use it for research and conservation?
         Publish your dataset in the [Camtrap DP](https://camtrap-dp.tdwg.org) standard to [GBIF](https://www.gbif.org)
-        and it will automatically appear on Wild Album.
+        and it will automatically appear on this website.
       cta:
         - text: Read the publication guide
           href: https://doi.org/10.35035/doc-0qzp-2x37
