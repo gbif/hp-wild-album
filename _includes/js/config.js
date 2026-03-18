@@ -71,7 +71,16 @@ var siteConfig = {
       "mapTileLocale": "es",
     },
   ],
-  "messages": {},
+  "messages": {
+    "en": {
+      "dataset.originalArchive": "Camtrap DP",
+      "dataset.originalArchiveDescription": "The data as published to GBIF, before Darwin Core transformation and GBIF processing."
+    },
+    "es": {
+      "dataset.originalArchive": "Camtrap DP",
+      "dataset.originalArchiveDescription": "Los datos tal y como se publicaron en GBIF, antes de la transformación de Darwin Core y el procesamiento de GBIF."
+    }
+  },
   "occurrenceSearch": {
     "scope": {
       "type": "equals",
