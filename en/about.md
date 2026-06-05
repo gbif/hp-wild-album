@@ -1,6 +1,5 @@
 ---
 layout: heroImage
-klass: wildlabs
 lang-ref: about
 permalink: /about
 title: About
